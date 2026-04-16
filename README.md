@@ -41,9 +41,58 @@
     <tr>
       <th>TANGGAL</th>
       <th>HARI</th>
-      <th>HK</th>
-      <th>SGP</th>
-      <th>SDY</th>
+<th>SYDNEY LOTTO</th>
+<th>SYDNEYPOOLS</th>
+<th>TOTOMACAU 13:00 WIB</th>
+<th>TOTOMACAU 16:00 WIB</th>
+<th>TOTOMACAU 19:00 WIB</th>
+<th>TOTOMACAU 23:00 WI</th>
+<th>OTOMACAU 22:00 WIB</th>
+<th>TOTOMACAU 00:01 WIB</th>
+<th>TOTOMACAU 13:00 WIB</th>
+<th>HONGKONG LOTTO</th>
+<th>HONGKONGPOOLS</th>
+<th>HONGKONG POOLS DAY</th>
+<th>HONGKONG LOTTO</th>
+<th>HONGKONGPOOLS</th>
+<th>HONGKONG POOLS DAY</th>
+<th>BATAVIA</th>
+<th>SHANGHAI POOLS 15:00</th>
+<th>SHANGHAI POOLS 11:00</th>
+<th>SHANGHAI POOLS 23:00</th>
+<th>MOROCCO QUATRO 18:00 WIB</th>
+<th>MOROCCO QUATRO 21:00 WIB</th>
+<th>MOROCCO QUATRO 00:00 WIB</th>
+<th>MOROCCO QUATRO 03:00 WIB</th>
+<th>PCSO</th>
+<th>MONGOLIA</th>
+<th>SEOUL LOTTERY</th>
+<th>GRAB POOLS</th>
+<th>MALIBUCITYPOOLS</th>
+<th>TURKEY</th>
+<th>SAIGON</th>
+<th>CHINA</th>
+<th>NEPAL POOLS</th>
+<th>MACAU 5D</th>
+<th>TOTO WUHAN 10:00</th>
+<th>POIPET</th>
+<th>MANILA POOLS</th>
+<th>PATTAYA LOTTERY</th>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
     </tr>
 
     <tr><td>16-04-2026</td><td>KAMIS</td><td>-</td><td>-</td><td>0936</td></tr>
